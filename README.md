@@ -11,7 +11,7 @@ This project focuses on using Business Intelligence (BI) tools, primarily Tablea
 ## Tools Used
 - **Tableau**: For creating interactive dashboards and visualizations.
 - **SQL**: For data extraction and manipulation.
-- **Excel** (if applicable): For data cleaning and preparation.
+- **Excel** : For data cleaning and preparation.
 
 ## Files
 - **Sales_Analysis.twbx**: The Tableau workbook file that contains the interactive dashboards.
